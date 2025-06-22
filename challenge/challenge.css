@@ -1,0 +1,25 @@
+*{
+  font-family: sans-serif;
+}
+
+div{
+  border-top: 5px solid black;
+  border-bottom: 1.5px solid black;
+  border-left: 5px solid black;
+  border-right: 5px solid black;  
+}
+#top{
+  background-color: #f7f7f7;
+  color: black;
+  text-align: center;
+}
+button{
+  background-color: black;
+  color: white;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+a{
+  color: black;
+  
+}
